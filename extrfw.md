@@ -30,3 +30,20 @@ Let this run through and redo this tutorial, but with the other firmware.
 
 Yes, you also create a new project.
 
+If that is done:
+
+- select rom to port to
+
+- go to "✨" on the left side
+ 
+- hit orange icon next to partition name
+
+- hit "convert to ext4" 
+
+# Next up:
+
+## [Step Two: Get Partition Sizes](./prtsiz.md)
+
+# Previous:
+
+## [Readme.md](./README.md)

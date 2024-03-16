@@ -5,6 +5,9 @@ this is an guide... (with pain :D)
 
 first we gotta prepare some stuff.
 
+We also have an great example phone for this tutorial.
+Keep in mind an Note 10 Plus (SM-N975F).
+
 Download:
 
 [CRB Kitchen](https://xdaforums.com/t/crb-android-kitchen-windows-tool-v3-3-8.3947779/)
@@ -33,4 +36,10 @@ Also get some in-depth idea of the phone youre porting from and the firmware you
 
 some of these questions can be awnsered by simply continuing this tutorial. Some, like the first few you should know before we start.
 
-[Step One: Extracting firmwares](./extrfw.md)
+# [Step One: Extracting firmwares](./extrfw.md)
+
+# [Step Two: Get Partition Sizes](./prtsiz.md)
+
+# [Step Three: Get Partition Sizes | Firmware you wanna port (and then we cry) ](./prtsiz2.md)
+
+# [Step Three: Debloat (this one is actually fun!) ](./debloat.md)
