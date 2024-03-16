@@ -42,4 +42,6 @@ some of these questions can be awnsered by simply continuing this tutorial. Some
 
 # [Step Three: Get Partition Sizes | Firmware you wanna port (and then we cry) ](./prtsiz2.md)
 
-# [Step Three: Debloat (this one is actually fun!) ](./debloat.md)
+# [Step Four: Debloat (this one is actually fun!) ](./debloat.md)
+
+# [Step Five: Product ](./product.md)
